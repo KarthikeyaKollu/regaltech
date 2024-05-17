@@ -4,11 +4,7 @@ import React from "react";
 import { twMerge } from "tailwind-merge";
 import { TracingBeam } from "./ui/tracing-beam";
 
-interface contents {
-  dummyContent :[]
-}
-
-export function TracingBeamDemo({dummyContent}:contents) {
+export function TracingBeamDemo({dummyContent}) {
   return (
     <TracingBeam className="px-6">
       <div className="max-w-2xl mx-auto antialiased pt-4 relative">
