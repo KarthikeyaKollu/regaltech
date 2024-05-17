@@ -37,8 +37,8 @@ export default function Home() {
         <div></div>
       </div>
       <div className="w-[30%] border rounded-xl mx-auto p-5 absolute top-[80%] right-[10%]">
-        <img src="https://private-user-images.githubusercontent.com/108949445/331605301-542b1a26-7cee-4f95-b5a1-fbe4c0e095f1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTE4MDUsIm5iZiI6MTcxNTk1MTUwNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNjA1MzAxLTU0MmIxYTI2LTdjZWUtNGY5NS1iNWExLWZiZTRjMGUwOTVmMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxMzExNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNGY2MDNiZmFjNDE2MjUwYzI3YzAwYThjNmRlYmI0OTgxMDk4ZTk5ZWQ0N2ZiNWFkMzkzMGNlYjZlODFhMWYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.sLspUSXskjGEKdfkRJ2oRdIGVnUZ2QNrPdDLgZx9--o" alt="" />
-        <img src="https://private-user-images.githubusercontent.com/108949445/331605324-31502063-80b5-47dc-aaab-55f17e44b41e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTE4MDUsIm5iZiI6MTcxNTk1MTUwNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNjA1MzI0LTMxNTAyMDYzLTgwYjUtNDdkYy1hYWFiLTU1ZjE3ZTQ0YjQxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxMzExNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05Nzc3MDg5MzdhNzJmM2UxMmY0ZjFiNDc5MzQ1NmRlYzExOWY5MGIwZTZlZjdkOTk4ODhhZWFlM2RkNDQ0N2E0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.eGXkUWiwq2Li1SVJAs0aoUcnBI8MxETSe4kJH3lI2sI" alt="" />
+        <img src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/542b1a26-7cee-4f95-b5a1-fbe4c0e095f1" alt="" />
+        <img src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/31502063-80b5-47dc-aaab-55f17e44b41e" alt="" />
 
       </div>
 

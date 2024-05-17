@@ -23,7 +23,7 @@ export default function RootLayout({
         <main className="">
         <a href="/">
      <div className="absolute left-[10%] top-5 z-10 hidden md:block">
-      <img src={"https://private-user-images.githubusercontent.com/108949445/330588458-72da1545-4142-49c0-8e5e-36d4098fcd87.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3MjAwNjcsIm5iZiI6MTcxNTcxOTc2NywicGF0aCI6Ii8xMDg5NDk0NDUvMzMwNTg4NDU4LTcyZGExNTQ1LTQxNDItNDljMC04ZTVlLTM2ZDQwOThmY2Q4Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxNFQyMDQ5MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMzEwM2U2ZWIwNWFlOTFhYzE4NzI4ZTU3MTFlYWE4YzA4ZTM0Y2I1MWZhMWFiZDRlMGY5OGJmYjA5NTdkYzJjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.k0auIoMFGShD7DULH_-_BDu0LxeCt2oXQR2D0t_pfsk"} alt=""  width={"200px"} height={"200px"}/>
+      <img src={"https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/72da1545-4142-49c0-8e5e-36d4098fcd87"} alt=""  width={"200px"} height={"200px"}/>
      </div>
      </a>
         <NavbarDemo />
