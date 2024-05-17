@@ -11,7 +11,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
       <img
-        src="https://private-user-images.githubusercontent.com/108949445/331598462-422242e7-7605-4046-a330-9d2da9554877.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTA0MTUsIm5iZiI6MTcxNTk1MDExNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNTk4NDYyLTQyMjI0MmU3LTc2MDUtNDA0Ni1hMzMwLTlkMmRhOTU1NDg3Ny5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxMjQ4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZmQ5NjY1NTZmMjY2NmY2MThhZDg0MDFmMzQxNDUxNTdlNzQ4M2ZmNjRkMTEyYmQ5Mzk3MTFkMmIzNWJhNTM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.v-Sv5AyWdyk7JNwWxt56miWMuuP42RjPb5dxlaEb8yw"
+        src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/422242e7-7605-4046-a330-9d2da9554877"
         width={300}
         height={300}
         className="h-full w-full object-cover"
@@ -27,7 +27,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <img
-          src="https://private-user-images.githubusercontent.com/108949445/331598495-27cd4a40-4294-48e4-9a0c-37af61c6f390.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTA0MTUsIm5iZiI6MTcxNTk1MDExNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNTk4NDk1LTI3Y2Q0YTQwLTQyOTQtNDhlNC05YTBjLTM3YWY2MWM2ZjM5MC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxMjQ4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZGNjOGQyZjcwMjJmZGE1MmFmNzY5YmE1NTFlYzRjMzZiOWU0MzU5NGRjY2U2ZDRjODQ4NGM5OTgyYmMyNTYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kijHmKEamnoEytrIYZVPBgSjSWa7Byz6_ZWXjXXYWmw"
+          src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/27cd4a40-4294-48e4-9a0c-37af61c6f390"
           width={300}
           height={300}
           className="h-full w-full object-cover"
@@ -43,7 +43,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <img
-          src="https://private-user-images.githubusercontent.com/108949445/331598501-9f335cc0-fd27-4819-9e79-9bb611d5e356.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTA0MTUsIm5iZiI6MTcxNTk1MDExNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNTk4NTAxLTlmMzM1Y2MwLWZkMjctNDgxOS05ZTc5LTliYjYxMWQ1ZTM1Ni5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxMjQ4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lODNiMjRkY2FkYzg1NzNjZjY3MjIzZmM5NDhiZWY0N2NhNjU2ZTZjMjBlNjk2MzcxY2JhYzRkMDE0NjRmYWQ0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.mg-oZqC6B47aYnmn3W9ej2Y4o_mYk7T1BIBPc7WRuE4"
+          src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/9f335cc0-fd27-4819-9e79-9bb611d5e356"
           width={300}
           height={300}
           className="h-full w-full object-cover"
@@ -59,7 +59,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
       <img
-        src="https://private-user-images.githubusercontent.com/108949445/331598516-637b6148-8a07-4d13-adf0-182af08973f7.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTA0MTUsIm5iZiI6MTcxNTk1MDExNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNTk4NTE2LTYzN2I2MTQ4LThhMDctNGQxMy1hZGYwLTE4MmFmMDg5NzNmNy5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxMjQ4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZTFjODZkMDhjZWFlNGE0YWUxZmQ2M2EzZDg3ODEyMWU3YTc5YmE3OGY0MmQ0MzUyYWQ0N2JlNTliYmIxNzk2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.UD7nR9yLpehrEVfqMLZjpEN51dMQir6-Jr23rJi3nc4"
+        src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/637b6148-8a07-4d13-adf0-182af08973f7"
         width={300}
         height={300}
         className="h-full w-full object-cover"
@@ -75,7 +75,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <img
-          src="https://private-user-images.githubusercontent.com/108949445/331598553-950e2af7-d6c8-4e0a-b731-456204e96ba6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTA0MTUsIm5iZiI6MTcxNTk1MDExNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNTk4NTUzLTk1MGUyYWY3LWQ2YzgtNGUwYS1iNzMxLTQ1NjIwNGU5NmJhNi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxMjQ4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MGVlYTI4ZDRjYmI4MTZlMTc0ZjQxOWMxZWMxODc2M2FkYmY2ZGE2ODVlNmYxZTQwNWQxN2Y0ZTI2YmI1NjNjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.5s7y15LekJXm4hT7CO8LDIXK7rrWvqYqVQ8UB7ub4iU"
+          src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/950e2af7-d6c8-4e0a-b731-456204e96ba6"
           width={300}
           height={300}
           className="h-full w-full object-cover"
@@ -91,7 +91,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
       <img
-        src="https://private-user-images.githubusercontent.com/108949445/331598561-965b85d0-a28d-454e-942f-df9201d740e6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTA0MTUsIm5iZiI6MTcxNTk1MDExNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNTk4NTYxLTk2NWI4NWQwLWEyOGQtNDU0ZS05NDJmLWRmOTIwMWQ3NDBlNi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxMjQ4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNGViZjVkNDhmOTE3ZGUxN2E5OGMyZmZhNTc0ZjlhMWUwZjQ5MzcyOWY1MjFiNGJlNzc4ZDA4MjcwMjc0MGNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.cW_hHaihjAHZCuv1kh-lbkkNRs722GXoZrskgTFj_tI"
+        src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/965b85d0-a28d-454e-942f-df9201d740e6"
         width={300}
         height={300}
         className="h-full w-full object-cover"
@@ -107,7 +107,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
       <img
-        src="https://private-user-images.githubusercontent.com/108949445/331624046-8048053c-7f6b-4e63-9a88-75586c1b2a45.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU5NTUyMTUsIm5iZiI6MTcxNTk1NDkxNSwicGF0aCI6Ii8xMDg5NDk0NDUvMzMxNjI0MDQ2LTgwNDgwNTNjLTdmNmItNGU2My05YTg4LTc1NTg2YzFiMmE0NS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUxN1QxNDA4MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZWYwNzc2ZmQwZTk3ZDZjOTAyYTc0YTYxYjE2ZTZlYjgzYzgzNGMwY2IzZTFkMDhhNTc3NGQ2MjRlMDdmM2QyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YgLPRu663zhg2xAFIfiNTlVS3p-oi9APXTYpeGYpHPE"
+        src="https://github.com/KarthikeyaKollu/elvsystems/assets/108949445/8048053c-7f6b-4e63-9a88-75586c1b2a45"
         width={300}
         height={300}
         className="h-full w-full object-cover"
